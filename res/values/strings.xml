@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrintDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="service_bind_success">服务绑定成功</string>
+    <string name="service_bind_fail">服务绑定失败</string>
+    <string name="normal">Normal</string>
+
+</resources>
